@@ -44,7 +44,7 @@ public class FileUpload {
         return result;
     }
 
-    @RequestMapping("/ttt")
+    @RequestMapping("/tt")
     public String test(){
         System.out.println("============进入初始方法===========");
         return "testPage";
